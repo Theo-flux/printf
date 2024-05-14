@@ -6,7 +6,7 @@
 
 
 The printf function sends formatted output to stdout.
-A custom _printf() function for learning purpose. by - El Pacific Binagha, and -  Willy Pascal Willy.
+A custom _printf() function for learning purpose. by - Theophilus Ekunnusi.
 - _printf() function format string is a character string, beginning and ending in its initial shift state, if any. 
 These arguments are placed using the percentage '%' operator
 
@@ -235,5 +235,4 @@ All the above options work well together.
 
 ### Authors &copy;
 
-- Theo,
--  Lade
+- Theo
